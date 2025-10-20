@@ -1,1 +1,3 @@
-# first_code
+This is my first github repository.
+<br>
+Author-Himanshu NAutiyal
